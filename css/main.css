@@ -1,0 +1,67 @@
+
+.main {
+
+    padding: 10px 10px;
+    border: 10px white solid;
+    margin-left: 250px;
+    margin-top: 0px;
+}
+h1
+{
+    margin-left: 30px;
+    margin-bottom: 5cqh;
+}
+h1 span{
+    border-bottom: 5px solid blue;
+    padding-bottom: 5px;
+}
+img {
+    width: 130px;
+    height: 150px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+h3{
+    margin-left: 20px;
+}
+.Iphone {
+    float: left;
+    width:22%;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 0px;
+    border: 3px black solid; 
+}
+.par {
+    color: gray;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+.sale {
+    float: left;
+    color: green;
+    margin-left: 20px;
+    margin-right: 5px;
+}
+.price {
+
+    color: red;
+    text-decoration: line-through;
+}
+.icon_bag
+{
+    background-color: blue;
+    border: 1px blue solid;
+    margin-left: 20px;
+    color: white;
+    width: 60%;
+    margin-bottom: 7px;
+}
+.icon_like
+{
+    border: 1px blue solid;
+    color: blue;
+    background-color: white;
+}
